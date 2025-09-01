@@ -1,0 +1,6 @@
+__pychache__/
+venv
+
+*.py[cod]
+*.pyo
+*.pyd
